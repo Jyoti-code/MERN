@@ -13,6 +13,7 @@
 		"nodemon": "^2.0.15"
 	},
 	"scripts": {
-		"build": "npm i"
+		"build": "npm i",
+		"dev": "nodemon server.js"
 	}
 }
